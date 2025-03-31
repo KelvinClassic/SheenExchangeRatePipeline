@@ -1,0 +1,8 @@
+/venv
+*.env
+/.idea
+/uvenv
+airflow.db
+airflow.cfg
+/logs
+conn.yaml
